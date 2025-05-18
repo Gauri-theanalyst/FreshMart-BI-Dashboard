@@ -29,4 +29,4 @@ This Power BI project provides interactive insights into:
 - `Report.pdf` — Full analysis report.
 
 ### 🤝 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/gauri-bawa/)
+- [LinkedIn](https://www.linkedin.com/in/gauri-bawa-774962347/)
